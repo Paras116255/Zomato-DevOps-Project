@@ -1,4 +1,4 @@
-DevOps Project - Kastro
+DevOps Project - Parass
 Deployment of ZOMATO Project
 --------------------------------------------
 Repo URL: https://github.com/KastroVKiran/DevOps-Project-Zomato-Kastro.git
