@@ -24,4 +24,11 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 
 ---
 
+## 🤝 **Connect with Me**
+
+Let's connect and discuss DevSecOps  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-kumar-7285931a2/)  
+
+
 
